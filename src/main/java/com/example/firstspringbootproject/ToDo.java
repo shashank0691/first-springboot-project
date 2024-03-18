@@ -1,3 +1,4 @@
+package com.example.firstspringbootproject;
 public class ToDo{
 	private int id;
 	private boolean completed;
